@@ -55,5 +55,7 @@ Apache POI - For Excel file creation. 📈
 🖼️ Screenshots
 
 
+<img width="573" height="875" alt="image" src="https://github.com/user-attachments/assets/bab0e867-0c15-4910-8727-286d2fc83467" />
+
 📜 License
 This project is licensed under the MIT License.
