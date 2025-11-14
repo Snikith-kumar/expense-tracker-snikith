@@ -1,6 +1,7 @@
 💸 Expense Tracker App
 
 📜 Description
+
 A Java desktop application designed for managing and tracking expenses and income. The application uses Swing for the user interface, MySQL for database management, Jbcrypt for password encryption, iText for PDF generation, and Apache POI for creating Excel files.
 
 📝 Notes
@@ -32,6 +33,7 @@ Generate Report: Create and save a report in one of the following formats:
 Save in CSV, PDF, XLSX, or TXT formats. 📊🗂️
 
 📁 Project Structure
+
 src/ - Source code directory
 com/
 expenseTracker/ - Java source files
@@ -58,4 +60,5 @@ Apache POI - For Excel file creation. 📈
 <img width="573" height="875" alt="image" src="https://github.com/user-attachments/assets/bab0e867-0c15-4910-8727-286d2fc83467" />
 
 📜 License
+
 This project is licensed under the MIT License.
